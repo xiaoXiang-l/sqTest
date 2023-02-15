@@ -6,7 +6,7 @@
     "isNormal": 1,
     "componentName": "合同类型",
     "bizType": [
-        "订单"
+        "修改一下"
     ],
     "category": 2,
     "tags": [
