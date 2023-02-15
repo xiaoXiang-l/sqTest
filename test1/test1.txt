@@ -1,1 +1,17 @@
 测试文件2
+{
+    "componentKey": "62014_contract_type",
+    "groupKey": "general_template_1\t",
+    "componentType": "customSelect",
+    "isNormal": 1,
+    "componentName": "合同类型",
+    "bizType": [
+        "订单"
+    ],
+    "category": 2,
+    "tags": [
+        "rule"
+    ],
+    "isGeneral": true,
+    "generalKey": "contract_type"
+}
