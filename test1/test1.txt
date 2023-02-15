@@ -1,10 +1,10 @@
 测试文件2
 {
     "componentKey": "componentKey",
-    "groupKey": "general_template_1\t",
+    "groupKey": "groupKey\t",
     "componentType": "customSelect",
     "isNormal": 1,
-    "componentName": "合同类型",
+    "componentName": "hhhhh",
     "bizType": [
         "修改一下"
     ],
