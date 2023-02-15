@@ -4,7 +4,7 @@
     "groupKey": "general_template_1\t",
     "componentType": "customSelect",
     "isNormal": 1,
-    "componentName": "合同类型",
+    "componentName": "hhhhh",
     "bizType": [
         "订单"
     ],
