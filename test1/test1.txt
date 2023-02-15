@@ -1,6 +1,6 @@
 测试文件2
 {
-    "componentKey": "62014_contract_type",
+    "componentKey": "componentKey",
     "groupKey": "general_template_1\t",
     "componentType": "customSelect",
     "isNormal": 1,
